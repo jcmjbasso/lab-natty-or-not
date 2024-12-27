@@ -2,7 +2,7 @@
 
 ## 📒 Descrição
 
-Este projeto investiga como tecnologias de inteligência artificial generativa podem ser aplicadas de forma criativa e funcional para melhorar ambientes de trabalho. O foco está em criar uma representação visual de um espaço onde a produtividade é amplificada pela utilização de ferramentas avançadas de IA. O projeto combina tecnologias de ponta com um design visualmente atrativo, ideal para inspirar inovação e eficiência em escritórios modernos.
+Este projeto investiga através de um Ebook como tecnologias de inteligência artificial generativa podem ser aplicadas de forma a melhorar o ambiente de trabalho da GIGOV/SJC.
 
 ## 🤖 Tecnologias Utilizadas
 
@@ -12,17 +12,17 @@ Este projeto investiga como tecnologias de inteligência artificial generativa p
 
 - [Canva](https://www.canva.com/): Formatação e Estruturação do Ebook propriamente dito.
 
-Ferramentas de Edição Online: Utilizadas para ajustes e aprimoramentos no design, garantindo um acabamento estético profissional.
-
 ## 🤔 Processo de Criação
 
-1. Identificação do Problema: Analisar como tecnologias de IA podem otimizar processos em um ambiente governamental, como o GIGOV SJC.
+1. Identificação do Problema: Analisar como tecnologias de IA podem otimizar processos em um ambiente governamental, como a GIGOV/SJC.
 
 2. Pesquisa Inicial: Coletar dados e compreender as práticas atuais no uso de inteligência artificial aplicada.
 
-3. Geração de Conteúdo: Empregar o ChatGPT para estruturar o conteúdo textual e utilizar o DALL-E para criar imagens que representem visualmente o conceito explorado.
+3. Geração de Conteúdo textual e visual: Empregar o ChatGPT para estruturar o conteúdo textual e utilizar o DALL-E para criar imagens que representem visualmente o conceito explorado.
 
-4. Revisão e Refinamento: Revisar tanto os aspectos visuais quanto textuais para garantir um resultado coeso e alinhado ao objetivo do projeto.
+4. Formatação através do Canvas: Transformar o texto em um E-book instigante e visualmente rico.
+
+5. Revisão e Refinamento: Revisar tanto os aspectos visuais quanto textuais para garantir um resultado coeso e alinhado ao objetivo do projeto.
 
 ## 🚀 Resultados
 
@@ -35,4 +35,6 @@ Ferramentas de Edição Online: Utilizadas para ajustes e aprimoramentos no desi
 
 ## 💭 Reflexão (Opcional)
 
-O processo de desenvolver algo inovador com o suporte de IA foi ao mesmo tempo desafiador e gratificante. A combinação de tecnologia avançada com princípios de design demonstrou ser uma abordagem eficaz para destacar funcionalidades sem comprometer a estética. Este projeto é uma prova de que soluções tecnológicas podem ser tão elegantes quanto práticas.
+O processo de desenvolver algo inovador com o suporte de IA foi ao mesmo tempo desafiador e gratificante. A combinação de tecnologia avançada com princípios de design demonstrou ser uma abordagem eficaz para destacar funcionalidades sem comprometer a estética. 
+
+Este projeto portanto é uma prova de que soluções tecnológicas de ponta além de práticas optimizam a produtividade no espaço de trabalho.
